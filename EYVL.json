@@ -2,7 +2,7 @@
   "name": "EYVL",
   "id": "49df541b-0304-41ed-a9a4-4c3e4359f535",
   "updateUrl": "https://raw.githubusercontent.com/Lithuania-vACC/VATIS/refs/heads/main/EYVL.json",
-  "updateSerial": 2026070102,
+  "updateSerial": 2026070103,
   "stations": [
     {
       "id": "5e651c57-5cec-427d-8050-6cf277899280",
@@ -2156,6 +2156,11 @@
           "voice": "ZULU"
         },
         {
+          "variableName": "LVP",
+          "text": "LVP IN FORCE",
+          "voice": "LOW VISIBILITY PROCEDURES IN FORCE."
+        },
+        {
           "variableName": "CDM",
           "text": "CDM IN PROGRESS, VISIT VATS.IM/VDGS FOR PUSH-BACK TIME",
           "voice": "COLLABORATIVE DECISION MAKING IN PROGRESS, VISIT V A TS. DOT. I M. SLASH VDGS FOR YOUR PUSHBACKTIME."
@@ -2192,16 +2197,6 @@
         {
           "text": "@LVP",
           "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "TRA SKL AND ALMENLAND AND BRK ACTIVE TIL ECET",
-          "ordinal": 2,
-          "enabled": false
-        },
-        {
-          "text": "CAUTION MODEL AIRFIELDS ACTIVE WITHIN @CTR DURING DAYTIME AS PUBLISHED UP TO @150M @AGL",
-          "ordinal": 3,
           "enabled": false
         }
       ]
@@ -4354,6 +4349,11 @@
           "voice": "ZULU"
         },
         {
+          "variableName": "LVP",
+          "text": "LVP Take-off Procedures are in force",
+          "voice": "Low Visibility Take-off Procedures are in force."
+        },
+        {
           "variableName": "CDM",
           "text": "CDM IN PROGRESS, VISIT VATS.IM/VDGS FOR PUSH-BACK TIME",
           "voice": "COLLABORATIVE DECISION MAKING IN PROGRESS, VISIT V A TS. DOT. I M. SLASH VDGS FOR YOUR PUSHBACKTIME."
@@ -4385,16 +4385,6 @@
         {
           "text": "@LVP",
           "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "TRA SKL AND ALMENLAND AND BRK ACTIVE TIL ECET",
-          "ordinal": 2,
-          "enabled": false
-        },
-        {
-          "text": "CAUTION MODEL AIRFIELDS ACTIVE WITHIN @CTR DURING DAYTIME AS PUBLISHED UP TO @150M @AGL",
-          "ordinal": 3,
           "enabled": false
         }
       ]
@@ -6551,6 +6541,11 @@
           "voice": "ZULU"
         },
         {
+          "variableName": "LVP",
+          "text": "LVP IN FORCE",
+          "voice": "Low Visibility Procedures are in force."
+        },
+        {
           "variableName": "CDM",
           "text": "CDM IN PROGRESS, VISIT VATS.IM/VDGS FOR PUSH-BACK TIME",
           "voice": "COLLABORATIVE DECISION MAKING IN PROGRESS, VISIT V A TS. DOT. I M. SLASH VDGS FOR YOUR PUSHBACKTIME."
@@ -6577,16 +6572,6 @@
         {
           "text": "@LVP",
           "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "TRA SKL AND ALMENLAND AND BRK ACTIVE TIL ECET",
-          "ordinal": 2,
-          "enabled": false
-        },
-        {
-          "text": "CAUTION MODEL AIRFIELDS ACTIVE WITHIN @CTR DURING DAYTIME AS PUBLISHED UP TO @150M @AGL",
-          "ordinal": 3,
           "enabled": false
         }
       ]
