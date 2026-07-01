@@ -2,7 +2,7 @@
   "name": "EYVL",
   "id": "49df541b-0304-41ed-a9a4-4c3e4359f535",
   "updateUrl": "https://raw.githubusercontent.com/Lithuania-vACC/VATIS/refs/heads/main/EYVL.json",
-  "updateSerial": 2026070102,
+  "updateSerial": 2026070103,
   "stations": [
     {
       "id": "5e651c57-5cec-427d-8050-6cf277899280",
@@ -4244,9 +4244,9 @@
           "voice": "ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]"
         },
         {
-          "variableName": "EYKA_ATIS",
-          "text": "EYKA ATIS",
-          "voice": "THIS IS KAUNAS ATIS INFORMATION"
+          "variableName": "EYPA_ATIS",
+          "text": "EYPA ATIS",
+          "voice": "THIS IS PALANGA ATIS INFORMATION"
         },
         {
           "variableName": "WIP",
@@ -6446,9 +6446,9 @@
           "voice": "ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]"
         },
         {
-          "variableName": "EYKA_ATIS",
-          "text": "EYKA ATIS",
-          "voice": "THIS IS KAUNAS ATIS INFORMATION"
+          "variableName": "EYSA_ATIS",
+          "text": "EYSA ATIS",
+          "voice": "THIS IS SIAULIAI ATIS INFORMATION"
         },
         {
           "variableName": "WIP",
@@ -8643,9 +8643,9 @@
           "voice": "ADVISE ON INITIAL CONTACT YOU HAVE INFORMATION [ATIS_CODE]"
         },
         {
-          "variableName": "EYKA_ATIS",
-          "text": "EYKA ATIS",
-          "voice": "THIS IS KAUNAS ATIS INFORMATION"
+          "variableName": "EYVI_ATIS",
+          "text": "EYVI ATIS",
+          "voice": "THIS IS VILNIUS ATIS INFORMATION"
         },
         {
           "variableName": "WIP",
