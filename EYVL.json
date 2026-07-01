@@ -2,11 +2,11 @@
   "name": "EYVL",
   "id": "49df541b-0304-41ed-a9a4-4c3e4359f535",
   "updateUrl": "https://raw.githubusercontent.com/Lithuania-vACC/VATIS/refs/heads/main/EYVL.json",
-  "updateSerial": 2026070104,
+  "updateSerial": 2026070101,
   "stations": [
     {
       "id": "5e651c57-5cec-427d-8050-6cf277899280",
-      "ordinal": 2,
+      "ordinal": 1,
       "identifier": "EYKA",
       "name": "KAUNAS",
       "atisType": "Combined",
@@ -2213,7 +2213,7 @@
     },
     {
       "id": "63d64ab5-145e-46c5-886f-e1c431f151e3",
-      "ordinal": 0,
+      "ordinal": 2,
       "identifier": "EYPA",
       "name": "PALANGA",
       "atisType": "Combined",
@@ -4411,7 +4411,7 @@
     },
     {
       "id": "06d81bea-b1ea-4470-94c0-ef94f7f10086",
-      "ordinal": 0,
+      "ordinal": 3,
       "identifier": "EYSA",
       "name": "SIAULIAI",
       "atisType": "Combined",
@@ -6608,7 +6608,7 @@
     },
     {
       "id": "adc174b9-b1e7-4fdf-a4af-ffb84fd5f345",
-      "ordinal": 0,
+      "ordinal": 4,
       "identifier": "EYVI",
       "name": "VILNIUS",
       "atisType": "Combined",
