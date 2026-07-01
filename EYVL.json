@@ -1,7 +1,7 @@
 {
   "name": "EYVL",
   "id": "f713ac24-881a-4e6e-97d8-64e9c1723374",
-  "updateUrl": "https://raw.githubusercontent.com/VACC-Austria/vATIS/refs/heads/main/vATIS%20Profile%20-%20LOVV.json",
+  "updateUrl": "https://raw.githubusercontent.com/Lithuania-vACC/VATIS/refs/heads/main/EYVL.json",
   "updateSerial": 2026070101,
   "stations": [
     {
