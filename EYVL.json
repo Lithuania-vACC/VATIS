@@ -1,8 +1,8 @@
 {
   "name": "EYVL",
   "id": "610bc913-f11d-4364-9198-75be984a8f56",
-  "updateUrl": "https://raw.githubusercontent.com/Lithuania-vACC/VATIS/refs/heads/main/EYVL.json",
-  "updateSerial": 2026070103,
+  "updateUrl": "https://raw.githubusercontent.com/Lithuania-vACC/EYVL-vATIS/refs/heads/main/EYVL.json",",
+  "updateSerial": 2026070501,
   "stations": [
     {
       "id": "5e651c57-5cec-427d-8050-6cf277899280",
